@@ -1,0 +1,1 @@
+Why is it sometimes better for prediction to deliberately omit variables that you know have a real effect on the response?
