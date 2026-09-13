@@ -1,0 +1,1 @@
+Ridge deliberately introduces bias into every coefficient, even the well-estimated ones. It's intuitive that shrinking an unstable direction trades variance for bias in a way that helps. But why does it make sense to also shrink a coefficient that OLS already estimates precisely — isn't that pure loss with no compensating benefit?
