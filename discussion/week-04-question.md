@@ -1,0 +1,1 @@
+Suppose you compared several values of α for elastic net and reported the test MSE of whichever performed best on the test set. What is wrong with this, and how should the comparison be done instead?
