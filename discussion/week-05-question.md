@@ -1,0 +1,1 @@
+When the neighborhood size is stretched to cover the whole training set, every prediction becomes the same flat number — the overall average. Where along a sine wave would that flat prediction fail worst, and where would it accidentally do fine? Would the failure pattern look different for a straight-line relationship instead of a wave?
