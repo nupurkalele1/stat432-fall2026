@@ -15,8 +15,11 @@
 /homework/*
 !/homework/week-[0-9][0-9]/
 /homework/week-[0-9][0-9]/*
-!/homework/week-[0-9][0-9]/homework-[0-9][0-9].pdf
-!/homework/week-[0-9][0-9]/homework-[0-9][0-9].html
+!/homework/week-[0-9][0-9]/*.pdf
+!/homework/week-[0-9][0-9]/*.html
+!/homework/week-[0-9][0-9]/*.qmd
+!/homework/week-[0-9][0-9]/*.R
+!/homework/week-[0-9][0-9]/*.py
 
 # Keep only final-project files.
 /project/*
