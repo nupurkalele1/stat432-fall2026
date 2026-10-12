@@ -1,0 +1,1 @@
+Logistic regression models P(Y | X) directly, while discriminant analysis models the distribution of X within each class and then applies Bayes’ rule. What are the advantages and disadvantages of each route? When might you expect one to outperform the other?
