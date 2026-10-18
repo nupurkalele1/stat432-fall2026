@@ -1,0 +1,1 @@
+You refit a soft-margin linear SVM on the same data, lowering C from 1 to 0.1. What happens to the margin and the number of support vectors, and why?
