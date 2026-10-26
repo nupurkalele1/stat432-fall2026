@@ -1,0 +1,1 @@
+The linear SVM captures a “broad separation” but cannot follow the Bayes boundary. The radial SVM bends but still does not reproduce the Bayes boundary. Why might even a very flexible classifier fail to match the Bayes boundary on this dataset?
