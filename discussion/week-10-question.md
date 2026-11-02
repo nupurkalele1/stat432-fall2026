@@ -1,0 +1,1 @@
+Two candidate splits have the same misclassification error. Why might Gini impurity still prefer one of them?
